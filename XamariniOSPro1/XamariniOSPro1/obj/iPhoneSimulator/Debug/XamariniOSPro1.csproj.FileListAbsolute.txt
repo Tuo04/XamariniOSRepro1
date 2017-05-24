@@ -1,0 +1,16 @@
+C:\Users\mdTestAU\Source\Repos\XamariniOSRepro1\XamariniOSPro1\XamariniOSPro1\bin\iPhoneSimulator\Debug\XamariniOSPro1.exe
+C:\Users\mdTestAU\Source\Repos\XamariniOSRepro1\XamariniOSPro1\XamariniOSPro1\bin\iPhoneSimulator\Debug\XamariniOSPro1.pdb
+C:\Users\mdTestAU\Source\Repos\XamariniOSRepro1\XamariniOSPro1\XamariniOSPro1\bin\iPhoneSimulator\Debug\mscorlib.dll
+C:\Users\mdTestAU\Source\Repos\XamariniOSRepro1\XamariniOSPro1\XamariniOSPro1\bin\iPhoneSimulator\Debug\normidna.nlp
+C:\Users\mdTestAU\Source\Repos\XamariniOSRepro1\XamariniOSPro1\XamariniOSPro1\bin\iPhoneSimulator\Debug\normnfc.nlp
+C:\Users\mdTestAU\Source\Repos\XamariniOSRepro1\XamariniOSPro1\XamariniOSPro1\bin\iPhoneSimulator\Debug\normnfd.nlp
+C:\Users\mdTestAU\Source\Repos\XamariniOSRepro1\XamariniOSPro1\XamariniOSPro1\bin\iPhoneSimulator\Debug\normnfkc.nlp
+C:\Users\mdTestAU\Source\Repos\XamariniOSRepro1\XamariniOSPro1\XamariniOSPro1\bin\iPhoneSimulator\Debug\normnfkd.nlp
+C:\Users\mdTestAU\Source\Repos\XamariniOSRepro1\XamariniOSPro1\XamariniOSPro1\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\mdTestAU\Source\Repos\XamariniOSRepro1\XamariniOSPro1\XamariniOSPro1\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Users\mdTestAU\Source\Repos\XamariniOSRepro1\XamariniOSPro1\XamariniOSPro1\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\mdTestAU\Source\Repos\XamariniOSRepro1\XamariniOSPro1\XamariniOSPro1\obj\iPhoneSimulator\Debug\optimized\
+C:\Users\mdTestAU\Source\Repos\XamariniOSRepro1\XamariniOSPro1\XamariniOSPro1\obj\iPhoneSimulator\Debug\XamariniOSPro1.csprojResolveAssemblyReference.cache
+C:\Users\mdTestAU\Source\Repos\XamariniOSRepro1\XamariniOSPro1\XamariniOSPro1\obj\iPhoneSimulator\Debug\XamariniOSPro1.csproj.CoreCompileInputs.cache
+C:\Users\mdTestAU\Source\Repos\XamariniOSRepro1\XamariniOSPro1\XamariniOSPro1\obj\iPhoneSimulator\Debug\XamariniOSPro1.exe
+C:\Users\mdTestAU\Source\Repos\XamariniOSRepro1\XamariniOSPro1\XamariniOSPro1\obj\iPhoneSimulator\Debug\XamariniOSPro1.pdb
