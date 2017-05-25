@@ -1,5 +1,8 @@
 ﻿using Foundation;
 using UIKit;
+using Microsoft.Azure.Mobile;
+using Microsoft.Azure.Mobile.Analytics;
+using Microsoft.Azure.Mobile.Crashes;
 
 namespace XamariniOSPro1
 {
@@ -26,6 +29,8 @@ namespace XamariniOSPro1
 
             // make the window visible
             Window.MakeKeyAndVisible();
+            MobileCenter.Start("ba2daac7-859d-4208-b41d-10f9d81e3328",
+                   typeof(Analytics), typeof(Crashes));
 
             return true;
         }
