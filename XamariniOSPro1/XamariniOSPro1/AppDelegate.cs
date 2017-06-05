@@ -29,8 +29,9 @@ namespace XamariniOSPro1
 
             // make the window visible
             Window.MakeKeyAndVisible();
-            MobileCenter.Start("ba2daac7-859d-4208-b41d-10f9d81e3328",
-                   typeof(Analytics), typeof(Crashes));
+
+            MobileCenter.Start("6e199f3d-b4e9-417d-a3fd-042b1ae59d94",
+                               typeof(Analytics), typeof(Crashes));
 
             Xamarin.Calabash.Start();
             return true;
