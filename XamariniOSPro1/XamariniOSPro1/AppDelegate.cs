@@ -32,6 +32,7 @@ namespace XamariniOSPro1
             MobileCenter.Start("ba2daac7-859d-4208-b41d-10f9d81e3328",
                    typeof(Analytics), typeof(Crashes));
 
+            Xamarin.Calabash.Start();
             return true;
         }
 
