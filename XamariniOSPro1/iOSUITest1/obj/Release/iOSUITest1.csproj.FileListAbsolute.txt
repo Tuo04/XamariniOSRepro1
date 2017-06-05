@@ -12,4 +12,3 @@ C:\Users\v-tuchen\XamariniOSRepro1\XamariniOSPro1\iOSUITest1\bin\Release\nunit.f
 C:\Users\v-tuchen\XamariniOSRepro1\XamariniOSPro1\iOSUITest1\bin\Release\Xamarin.UITest.xml
 C:\Users\v-tuchen\XamariniOSRepro1\XamariniOSPro1\iOSUITest1\obj\Release\iOSUITest1.dll
 C:\Users\v-tuchen\XamariniOSRepro1\XamariniOSPro1\iOSUITest1\obj\Release\iOSUITest1.pdb
-C:\Users\v-tuchen\XamariniOSRepro1\XamariniOSPro1\iOSUITest1\bin\Release\Calabash.dll
