@@ -33,7 +33,13 @@ namespace XamariniOSPro1
             MobileCenter.Start("6e199f3d-b4e9-417d-a3fd-042b1ae59d94",
                                typeof(Analytics), typeof(Crashes));
 
+            // Newer version of Xamarin Studio and Visual Studio provide the
+            // ENABLE_TEST_CLOUD compiler directive in the Debug configuration,
+            // but not the Release configuration.
+            #if ENABLE_TEST_CLOUD
             Xamarin.Calabash.Start();
+            #endif
+
             return true;
         }
 
